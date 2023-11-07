@@ -1,0 +1,8 @@
+{
+  "validLogin": {
+    "username": "admin",
+    "password": "password123",
+    "expectedCode": 200,
+    "expectedMessage": "OK"
+  }
+}
